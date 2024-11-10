@@ -11,7 +11,8 @@
 
 ## Зависимости
 В файле requirements.txt перечислены все необходимые зависимости они будут установлены с помощью команды:
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
 
 ## Запуск
 
